@@ -1,4 +1,3 @@
-```js
 Algoritmo "2 cadastro de Endereço"
 
 Var
@@ -29,4 +28,3 @@ Inicio
          escrevaL("Telefone: ", telefone)
 	}
 Fimalgoritmo
-```
