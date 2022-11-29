@@ -4,7 +4,7 @@ Algoritmo "1 Noticias"
 // REMOVER NOTICIAS
 // EDITAR NOTICIAS
 procedimento menu(i: inteiro)
-inicio //MODOLARIZAÇÃO
+inicio //MODOLARIZAÃ‡ÃƒO
 se i = 1 entao
   escreval("1- Listar Noticias: ")
   escreval("2- Gerencias Noticias: ")
@@ -21,7 +21,7 @@ se i = 3 entao
   escreval("Bem vindos ao portal de noticias da Unis")
   escreval("_________________________________________")
   escreval
-  escreval("O que você deseja fazer? ")
+  escreval("O que vocÃª deseja fazer? ")
   escreval
   fimse
 fimprocedimento
