@@ -9,7 +9,7 @@ pag, vol, decida: inteiro
 
 Inicio
 // recebe os dados que ja foram cadastrado no bd atraves de
-// uma chamativa de função
+// uma chamativa de funÃ§Ã£o
 nome <- "Guerra Civil"
 colecao <- "Essenciais"
 pag <- 128
@@ -17,13 +17,13 @@ vol <- 2
 data <- "20/02/1998"
 
 escrevaL("_____________________________")
-escrevaL("Os Detalhes do Quadrinho são:")
+escrevaL("Os Detalhes do Quadrinho sÃ£o:")
 escrevaL("_____________________________")
 escrevaL("Nome: ", nome)
-escrevaL("Coleção: ", colecao)
-escrevaL("Páginas: ", pag)
+escrevaL("ColeÃ§Ã£o: ", colecao)
+escrevaL("PÃ¡ginas: ", pag)
 escrevaL("Volume: ", vol)
-escrevaL("Data de Lançamento: ", data)
+escrevaL("Data de LanÃ§amento: ", data)
 
 EscrevaL("Deseja Adicionar ao Carrinho: ")
 leia(decida)
