@@ -1,5 +1,6 @@
+```js
 Algoritmo "Fale Conosco"
-// Disciplina   : [Linguagem e Lógica de Programação] 
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
 // Professor   : Antonio Carlos Nicolodi 
 
 Var
@@ -14,7 +15,7 @@ leia(email)
 escrevaL("Digite sua senha: ")
 leia(senha)
 
-escrevaL("Você esta logado.")
+escrevaL("VocÃª esta logado.")
 
 escrevaL("Assunto: ")
 leia(assunto)
@@ -24,7 +25,7 @@ leia(msg)
 
 escrevaL("Confirmar o envio da Mensagem : ")
 escrevaL(msg)
-escrevaL("1- Sim ou 2-Não")
+escrevaL("1- Sim ou 2-NÃ£o")
 escrevaL(" ")
 leia(decida)
 escolha (decida)
@@ -35,3 +36,4 @@ caso 2
 fimescolha
 
 Fimalgoritmo
+```
