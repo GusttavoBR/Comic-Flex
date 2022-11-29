@@ -42,7 +42,7 @@ total <- preco1 + preco2 + preco3 + preco4
 escreval("Total de", total)
 escreval("________________")
 
-escrevaL("Você é assinante ?")
+escrevaL("VocÃª Ã© assinante ?")
 escrevaL("1- Sim   2-Nao")
 leia(decida)
 escolha decida
