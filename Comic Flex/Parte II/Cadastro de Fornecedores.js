@@ -1,6 +1,5 @@
 Algoritmo "5 cadastro de Fornecedor"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
+
 Var
 numero, cep, cnpj, ie, contato, pessoa: inteiro
 nf, rs, endereco, bairro, cidade, uf, pessoa1,email, nov: caracter
@@ -9,10 +8,10 @@ repita
 escreva("Nome fantasia: ")
 leia(nf)
 
-escreva("Razão social: ")
+escreva("RazÃ£o social: ")
 leia(rs)
 
-escreva("Endereço: ")
+escreva("EndereÃ§o: ")
 leia(endereco)
 
 escreva("Numero ")
@@ -30,20 +29,20 @@ leia(uf)
 escreva("CEP ")
 leia(cep)
 
-escreval("1 - Pessoa Física")
-escreval("2 - Pessoa Jurídica")
+escreval("1 - Pessoa FÃ­sica")
+escreval("2 - Pessoa JurÃ­dica")
 leia(pessoa)
 escolha pessoa
 caso 1
-  pessoa1 <- "Pessoa Física"
+  pessoa1 <- "Pessoa FÃ­sica"
 caso 2
-  pessoa1 <- "Pessoa Jurídica"
+  pessoa1 <- "Pessoa JurÃ­dica"
 fimescolha
 
 escreva("CNPJ ")
 leia(cnpj)
 
-escreva("Inscrição Estadual ")
+escreva("InscriÃ§Ã£o Estadual ")
 leia(ie)
 
 escreva("E-mail ")
@@ -55,8 +54,8 @@ escrevaL("______________________________________________________")
 escrevaL("Cadastro de Fornecedor finalizado com sucesso ")
 escrevaL("______________________________________________________")
 escrevaL("Nome fantasia: ", nf)
-escrevaL("Razão social: ", rs)
-escrevaL("Endereço: ", endereco)
+escrevaL("RazÃ£o social: ", rs)
+escrevaL("EndereÃ§o: ", endereco)
 escrevaL("Numero: ", numero)
 escrevaL("Bairro: ", bairro)
 escrevaL("Cidade: ", cidade)
@@ -64,7 +63,7 @@ escrevaL("UF: ", uf)
 escrevaL("CEP: ", cep)
 escrevaL("Pessoa: ", pessoa1)
 escrevaL("CNPJ: ", cnpj)
-escrevaL("Inscrição Estadual: ", ie)
+escrevaL("InscriÃ§Ã£o Estadual: ", ie)
 escrevaL("E-mail: ", email)
 escrevaL("Contato: ", contato)
 
