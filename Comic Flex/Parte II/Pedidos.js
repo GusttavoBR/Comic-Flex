@@ -9,7 +9,7 @@ Inicio
 
 link <- "www.comicflex.com.br/link=1/guerracivil/sdsfdfsfsd=true"
 
-// Funções externas que pegam no bd as informações referentes
+// FunÃ§Ãµes externas que pegam no bd as informaÃ§Ãµes referentes
 // ao seu pedido
 
 data <- "17 de Julho de 2022"
@@ -20,6 +20,6 @@ escrevaL(link)
 escrevaL("Pedido realizado em ", data)
 escrevaL("Total ", total)
 escrevaL("Enviado Para ", enviado)
-escrevaL("Pedido Número ", nPedido)
+escrevaL("Pedido NÃºmero ", nPedido)
 
 Fimalgoritmo
