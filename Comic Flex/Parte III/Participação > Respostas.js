@@ -1,4 +1,4 @@
-Algoritmo "7 Participação_Respostas"
+Algoritmo "7 ParticipaÃ§Ã£o_Respostas"
 
 Var
    p: caracter
@@ -6,20 +6,20 @@ Var
 
 Inicio
    repita
-      escreval("Digite 1 para ver suas interações: ")
-      escreval("Digite 2 para apagar alguma interação: ")
+      escreval("Digite 1 para ver suas interaÃ§Ãµes: ")
+      escreval("Digite 2 para apagar alguma interaÃ§Ã£o: ")
       leia(dig)
       escolha dig
       caso 1
          escreval("Suas Perguntas: ")
          escreval
 
-         escreval("Você não possui nenhuma interação")
+         escreval("VocÃª nÃ£o possui nenhuma interaÃ§Ã£o")
          escreval
       caso 2
          escreval("Escolha qual deseja apagar: ")
          escreval
-         escreval("Não é possivel apagar nenhuma, pois você nao possui interações")
+         escreval("NÃ£o Ã© possivel apagar nenhuma, pois vocÃª nao possui interaÃ§Ãµes")
          escreval
 
 
