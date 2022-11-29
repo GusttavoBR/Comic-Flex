@@ -1,4 +1,4 @@
-Algoritmo "6 Participação_Perguntas"
+Algoritmo "6 ParticipaÃ§Ã£o_Perguntas"
 procedimento perguntas
 inicio
    p[1] <- "1 - Batman Morrem em novo jogo da DC"
