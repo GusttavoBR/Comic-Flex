@@ -1,4 +1,4 @@
-Algoritmo "10 Configurações"
+Algoritmo "10 ConfiguraÃ§Ãµes"
 Var
    op, tamanho: inteiro
    fonte: caracter
@@ -8,9 +8,9 @@ Inicio
       escreval
       escrevaL("Digite um 2 para FONTE")
       escreval
-      escrevaL("Digite um 3 para OCULTAR NAVEGAÇÃO À ESQUERDA")
+      escrevaL("Digite um 3 para OCULTAR NAVEGAÃ‡ÃƒO Ã€ ESQUERDA")
       escreval
-      escrevaL("Digite um 4 para ATIVAR NOTIFICAÇÕES DESKTOP")
+      escrevaL("Digite um 4 para ATIVAR NOTIFICAÃ‡Ã•ES DESKTOP")
       escreval
       escrevaL("Digite um 5 para ACESSIBILIDADE")
       escreval
@@ -38,9 +38,9 @@ Inicio
          escreval("Fonte: ", fonte)
          escreval("Tamanho: ", tamanho)
       caso 3
-         escrevaL("Ocultar navegação à esquerda ATIVADO")
+         escrevaL("Ocultar navegaÃ§Ã£o Ã  esquerda ATIVADO")
       caso 4
-         escreval(" Notificações de Desktop ATIVADO")
+         escreval(" NotificaÃ§Ãµes de Desktop ATIVADO")
       caso 5
          escreva("Acessibilidade ATIVADO")
       fimescolha
