@@ -23,13 +23,13 @@ fimescolha
 
 escrevaL("Planto atual ", ass1)
 
-escreval("Data da reovação **/**/****")
+escreval("Data da reovaÃ§Ã£o **/**/****")
 escreval("........................")
 
 escreval("Deseja cancelar sua assinatura? ")
 
 escreval("1- Sim")
-escreval("2- Não")
+escreval("2- NÃ£o")
 leia(canc)
 escolha canc
 
