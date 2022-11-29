@@ -1,4 +1,3 @@
-```js
 Algoritmo "Calculo de Frete"
 Var
 cep: real
@@ -15,4 +14,4 @@ Inicio
  escreva("O valor do frete é de ", cep, " Reais ")
 
 Fimalgoritmo
-```
+
