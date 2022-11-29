@@ -1,4 +1,3 @@
-```js
 Algoritmo "4 Cadastro de Comics"
 Var
   nomeQuadrinho, nomeIlustrador, saga: caracter
@@ -35,4 +34,4 @@ Inicio
             escrevaL("Cod do Produto: ", codQuadrinho)
          fimse
 Fimalgoritmo
-```
+
