@@ -1,6 +1,6 @@
+```js
 Algoritmo " cadastro de cliente"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+
 Var
 nomeCompleto, email, senha: caracter
 Inicio
@@ -13,6 +13,7 @@ Inicio
 		escreva("Digite uma senha: ")
 		leia(senha)
 
-		escreva("Parabéns ", nomeCompleto , "Sua conta foi criada e um E-mail foi enviado para ", email , "Muito obrigado por se cadastrar no nosso site!")
+		escreva("ParabÃ©ns ", nomeCompleto , "Sua conta foi criada e um E-mail foi enviado para ", email , "Muito obrigado por se cadastrar no nosso site!")
 	}
 Fimalgoritmo
+```
