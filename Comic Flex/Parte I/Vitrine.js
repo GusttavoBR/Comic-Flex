@@ -1,12 +1,11 @@
 Algoritmo "08 Vitrine"
 
 Var
-// Seção de Declarações das variáveis 
+
 marvel,dc: caracter
 decida, catMarvel, qCat, sn: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
 marvel <- "Marvel"
 dc <- "DC"
 escrevaL("*************************************************")
