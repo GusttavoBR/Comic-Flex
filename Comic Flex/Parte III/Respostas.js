@@ -3,7 +3,7 @@ Algoritmo "4 Respostas"
 procedimento enquetes
 inicio
    escreval("1 - Mulher Hulk um fiasco")
-   escreval("2 - O que Acharão de Adão negro")
+   escreval("2 - O que AcharÃ£o de AdÃ£o negro")
    escreval("3 - Luta pela DC")
    escreval("4 - Marvel a beira da falencia")
 fimprocedimento
@@ -11,13 +11,13 @@ fimprocedimento
 procedimento hulk
 inicio
    escreval("Mulher Hulk um fiasco")
-   escreval("Galera assisti a serie e detestei, falem ai o que vocês acharam")
+   escreval("Galera assisti a serie e detestei, falem ai o que vocÃªs acharam")
    escreval
 fimprocedimento
 
 procedimento adao
 inicio
-   escreval("O que Acharão de Adão negro")
+   escreval("O que AcharÃ£o de AdÃ£o negro")
    escreval("Acabei de sair do cinema e particularmente eu adoreio filme")
    escreval
 fimprocedimento
@@ -25,14 +25,14 @@ fimprocedimento
 procedimento dc
 inicio
    escreval("Luta pela DC")
-   escreval("Criei este tópico para você que é fã da DC deixar sua mensagem de apoio")
+   escreval("Criei este tÃ³pico para vocÃª que Ã© fÃ£ da DC deixar sua mensagem de apoio")
    escreval
 fimprocedimento
 
 procedimento marvelF
 inicio
    escreval("Marvel a beira da falencia")
-   escreval("Galera só eu acho que a Marvel está a beira da falência ?")
+   escreval("Galera sÃ³ eu acho que a Marvel estÃ¡ a beira da falÃªncia ?")
    escreval
 fimprocedimento
 Var
