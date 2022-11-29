@@ -1,4 +1,4 @@
-```js
+
 Algoritmo " cadastro de cliente"
 
 Var
@@ -16,5 +16,3 @@ Inicio
 		escreva("Parabéns ", nomeCompleto , "Sua conta foi criada e um E-mail foi enviado para ", email , "Muito obrigado por se cadastrar no nosso site!")
 	}
 Fimalgoritmo
-
-```
