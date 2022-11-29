@@ -1,6 +1,5 @@
+```js
 Algoritmo "4 Cadastro de Comics"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
 Var
   nomeQuadrinho, nomeIlustrador, saga: caracter
   codQuadrinho, dataLancamento, estoque: inteiro
@@ -17,7 +16,7 @@ Inicio
       escreva("Codigo do Quadrinho: ")
       leia(codQuadrinho)
       
-      escreva("Data de Lançamento: ")
+      escreva("Data de LanÃ§amento: ")
       leia(dataLancamento)
       
       escreva("Estoque: ")
@@ -27,12 +26,13 @@ Inicio
          senao
             escrevaL("Cadastro de Quadrinho efetuado com sucesso")
             escrevaL("__________________________________________")
-            escrevaL("Confira as informações abaixo:")
+            escrevaL("Confira as informaÃ§Ãµes abaixo:")
             escrevaL("Nome: ", nomeQuadrinho)
             escrevaL("Saga: ", saga)
             escrevaL("Ilustrador: ", nomeIlustrador)
-            escrevaL("Data de Lançamento: ", dataLancamento)
+            escrevaL("Data de LanÃ§amento: ", dataLancamento)
             escrevaL("Estoque: ", estoque)
             escrevaL("Cod do Produto: ", codQuadrinho)
          fimse
 Fimalgoritmo
+```
