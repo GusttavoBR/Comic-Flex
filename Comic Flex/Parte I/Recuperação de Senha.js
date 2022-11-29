@@ -1,4 +1,3 @@
-```js
 Algoritmo "Recuperação de Senha"
 Var
 email, senha: caracter
@@ -19,4 +18,4 @@ escrevaL("____________________________________________________________")
 
 escrevaL("Parabéns ", email, " sua senha foi alterada com Sucesso")
 Fimalgoritmo
-```
+
