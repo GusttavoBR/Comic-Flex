@@ -1,20 +1,16 @@
 Algoritmo "08 Vitrine"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 12/09/2022
+
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 marvel,dc: caracter
 decida, catMarvel, qCat, sn: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 marvel <- "Marvel"
 dc <- "DC"
 escrevaL("*************************************************")
-escrevaL("Olá Usuario, escolha quais revistar você quer ver")
+escrevaL("OlÃ¡ Usuario, escolha quais revistar vocÃª quer ver")
 escrevaL("*************************************************")
 escrevaL("1- Marvel   2-DC")
 leia(decida)
@@ -30,10 +26,10 @@ caso 1
     
     escolha(qcat)
     caso 1
-      escrevaL("Coleção Grandes Heróis Marvel (Panini)")
+      escrevaL("ColeÃ§Ã£o Grandes HerÃ³is Marvel (Panini)")
       escrevaL("R&159,92")
       escrevaL("Deseja Adicionar ao Carrinho ?")
-      escrevaL("1- Sim   2- Não")
+      escrevaL("1- Sim   2- NÃ£o")
       leia(sn)
       escolha(sn)
       caso 1
@@ -45,7 +41,7 @@ caso 1
       escrevaL("A Saga Dos X-Men Vol. 1")
       escrevaL("R&29,52")
       escrevaL("Deseja Adicionar ao Carrinho ?")
-      escrevaL("1- Sim   2- Não")
+      escrevaL("1- Sim   2- NÃ£o")
       leia(sn)
       escolha(sn)
       caso 1
@@ -54,10 +50,10 @@ caso 1
         escreva("Cancelado")
       fimescolha
     caso 3
-      escrevaL("A Aniquilação Final")
+      escrevaL("A AniquilaÃ§Ã£o Final")
       escrevaL("R&43,93")
       escrevaL("Deseja Adicionar ao Carrinho ?")
-      escrevaL("1- Sim   2- Não")
+      escrevaL("1- Sim   2- NÃ£o")
       leia(sn)
       escolha(sn)
       caso 1
@@ -79,7 +75,7 @@ caso 2
       escrevaL("Batman - Vigilantes de Gotham # 25")
       escrevaL("R&7,50")
       escrevaL("Deseja Adicionar ao Carrinho ?")
-      escrevaL("1- Sim   2- Não")
+      escrevaL("1- Sim   2- NÃ£o")
       leia(sn)
       escolha(sn)
       caso 1
@@ -91,7 +87,7 @@ caso 2
       escrevaL("Casamento do Superhomen")
       escrevaL("R&22,00")
       escrevaL("Deseja Adicionar ao Carrinho ?")
-      escrevaL("1- Sim   2- Não")
+      escrevaL("1- Sim   2- NÃ£o")
       leia(sn)
       escolha(sn)
       caso 1
@@ -103,7 +99,7 @@ caso 2
       escrevaL("Batman - Vigilantes de Gotham # 25")
       escrevaL("R&25,00")
       escrevaL("Deseja Adicionar ao Carrinho ?")
-      escrevaL("1- Sim   2- Não")
+      escrevaL("1- Sim   2- NÃ£o")
       leia(sn)
       escolha(sn)
       caso 1
