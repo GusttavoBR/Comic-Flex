@@ -1,7 +1,6 @@
 ```js
 Algoritmo "2 cadastro de Endereço"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+
 Var
 cep, numero, telefone: inteiro
 rua, bairro: caracter
