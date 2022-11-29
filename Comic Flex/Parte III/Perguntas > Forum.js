@@ -8,8 +8,8 @@ b: vetor[1..3]de caracter
 
 Inicio
 repita
-escreval("1 -  Ver Discussıes")
-escreval("2 -  Criar nova Discuss„o")
+escreval("1 -  Ver Discuss√µes")
+escreval("2 -  Criar nova Discuss√£o")
 escreval("3 - Encerrar")
 leia(disc)
 escolha disc
@@ -20,15 +20,15 @@ caso 1
   escreval(n[2])
   escreval(b[2])
   escreval
-  escreval("InformaÁ„o 3...")
-  escreval("InformaÁ„o 4...")
+  escreval("Informa√ß√£o 3...")
+  escreval("Informa√ß√£o 4...")
 caso 2
-  escreval("Iniciando uma nova discuss„o...")
+  escreval("Iniciando uma nova discuss√£o...")
   para i de 1 ate 2 faca
-  escreval("Digite o tÌtulo: ")
+  escreval("Digite o t√≠tulo: ")
   leia(n[i])
   escreval
-  escreval("Escreva o corpo de sua discuss„o: ")
+  escreval("Escreva o corpo de sua discuss√£o: ")
   leia(b[i])
   cont <- cont + 1
   fimpara
