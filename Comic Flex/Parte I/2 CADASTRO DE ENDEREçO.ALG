@@ -1,5 +1,6 @@
-Algoritmo "2 cadastro de Endereço"
-// Disciplina   : [Linguagem e Lógica de Programação] 
+```js
+Algoritmo "2 cadastro de EndereÃ§o"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
 // Professor   : Antonio Carlos Nicolodi 
 Var
 cep, numero, telefone: inteiro
@@ -11,7 +12,7 @@ Inicio
 	   escreva("Digite o nome da sua rua: ")
 	   leia(rua)
 
-      escreva("Digite o número da sua residencia: ")
+      escreva("Digite o nÃºmero da sua residencia: ")
       leia(numero)
       
       escreva("Digite o seu bairro: ")
@@ -20,12 +21,13 @@ Inicio
       escreva("Digite o seu telefone: ")
       leia(telefone)
          escrevaL("______________________________________________________")
-         escrevaL("Cadastro de forma de endereço finalizado com sucesso ")
+         escrevaL("Cadastro de forma de endereÃ§o finalizado com sucesso ")
          escrevaL("______________________________________________________")
          escrevaL("CEP: ", cep)
          escrevaL("Rua: ", rua)
-         escrevaL("Número: ", numero)
+         escrevaL("NÃºmero: ", numero)
          escrevaL("Bairro: ", bairro)
          escrevaL("Telefone: ", telefone)
 	}
 Fimalgoritmo
+```
