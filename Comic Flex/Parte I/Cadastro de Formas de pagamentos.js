@@ -1,4 +1,4 @@
-```js
+
 Algoritmo "3 cadastro de formas de pagamento"
 Var
 mValidade, aValidade, nCartao, codS, cpfTitular: inteiro
@@ -45,4 +45,4 @@ Inicio
            fimse
 	}
 Fimalgoritmo
-```
+
