@@ -1,4 +1,4 @@
-Algoritmo "8 Participação_Seguindo"
+Algoritmo "8 ParticipaÃ§Ã£o_Seguindo"
 
 Var
    p: caracter
@@ -6,7 +6,7 @@ Var
 
 Inicio
    repita
-      escreval("Digite 1 para ver quem você segue: ")
+      escreval("Digite 1 para ver quem vocÃª segue: ")
       escreval("Digite 2 para parar de seguir: ")
       leia(dig)
       escolha dig
@@ -14,12 +14,12 @@ Inicio
          escreval("Seus seguidores: ")
          escreval
 
-         escreval("Você não possui nenhum seguidor")
+         escreval("VocÃª nÃ£o possui nenhum seguidor")
          escreval
       caso 2
          escreval("Escolha qual deseja parar de seguir: ")
          escreval
-         escreval("Não é possivel parar de seguir, pois você nao possui seguidores")
+         escreval("NÃ£o Ã© possivel parar de seguir, pois vocÃª nao possui seguidores")
          escreval
 
 
