@@ -1,7 +1,5 @@
 ```js
 Algoritmo "3 cadastro de formas de pagamento"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
 Var
 mValidade, aValidade, nCartao, codS, cpfTitular: inteiro
 nomeCartao,  dNascimento: caracter
