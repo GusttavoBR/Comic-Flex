@@ -1,8 +1,4 @@
-```js
 Algoritmo "Fale Conosco"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
-
 Var
 email, senha, assunto, msg: caracter
 decida : inteiro
@@ -36,4 +32,4 @@ caso 2
 fimescolha
 
 Fimalgoritmo
-```
+
